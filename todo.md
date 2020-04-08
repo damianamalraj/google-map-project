@@ -6,3 +6,6 @@
 - add the text store locator DONE
 - add input box DONE
 - add store store list container DONE
+
+- style the induviduel store item in the store
+- show all the store in the stores list 
