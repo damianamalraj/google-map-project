@@ -1,0 +1,42 @@
+@@ -0,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EPIC GOOGLE MAPS PROJECT</title>
+    
+    <script src="js/index.js"></script>
+    <link rel="stylesheet" href="style/style.css">
+    <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
+</head>
+<body>
+    <div class="title">Store locator</div>
+
+    <div class="search-container">
+        <div class="search">
+            <input type="zip-code-input" type="text" placeholder="Enter zip">
+            <i class="fas fa-search"></i>
+        </div>
+    </div>
+    <div class="stores-list-container">
+        <div class="stores-list">
+            <div class="store-container">
+                <div class="store-address">
+                    3242334 address rd.
+                    city, state 74987
+                </div>
+                <div class="store-phone-number">
+                    07376871623
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcwazb-T7zvceyA4VLWVB-eXvwj-XEUIA&callback=initMap">
+    </script>
+</body>
+</html>
