@@ -1,6 +1,5 @@
-# Plan Of Action
+# d1
 
-- Create wireframe DONE
 - set up the base HTML structure DONE
 - import google map on to the widow DONE
 - add the text store locator DONE
