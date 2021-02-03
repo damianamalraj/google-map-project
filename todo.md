@@ -5,3 +5,5 @@
 - add the text store locator DONE
 - add input box DONE
 - add store store list container DONE
+
+- THE END
